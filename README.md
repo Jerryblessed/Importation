@@ -1,25 +1,21 @@
-# [Software bank📜](http://jerryblessed.pythonanywhere.com/)
+# [AI Scholar Connect 📜 ](https://flaskhealthy.azurewebsites.net/)
 
 Simple blog app built with Flask.
 <br/>
 [Contact](mailto:jeremiah.ope@stu.cu.edu.ng)<br/>
 
-### [Demo Video 📺](https://youtu.be/-vv_lLoM-lI)
+### [Demo Video 📺](https://vimeo.com/891677797)
 
-| [Desktop](https://github.com/Jerryblessed/Softwarebank/tree/master/images/desktop) | [Mobile](https://github.com/Jerryblessed/Softwarebank/tree/master/images/mobile) |
-| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|                    ![appDesktop](/images/desktop/light.png)                     |                    ![appMobile](/images/mobile/light.jpeg)                    |
-|                     ![appDesktop](/images/desktop/dark.png)                     |                    ![appMobile](/images/mobile/dark.jpeg)                     |
 
-[click for more images📷](https://github.com/Jerryblessed/Softwarebank/tree/master/images)
 
 ## Features 💫
 
 | Feature                | Status |
 | :--------------------- | :----: |
-| Redhat deployment      |   ✅    |
-| Intel tools            |   ✅    |
-| Google AI chat         |   ✅    |
+| Azure deployment       |   ✅    |
+| Azure data base feaute |   ✅    |
+| Azure AI               |   ✅    |
+| Google generative AI   |   ✅    |
 | User Page              |   ✅    |
 | User Login             |   ✅    |
 | User Points            |   ✅    |
@@ -63,7 +59,7 @@ Simple blog app built with Flask.
 ## Installation guide on Windows local machine ⬇️
 
 download source code from Github 💾
-`git clone https://github.com/Jerryblessed/Softwarebank.git`
+`git clone https://github.com/Jerryblessed/aischolarconnect.git`
 
 go to directory 📁
 `cd softwarebank`
@@ -76,13 +72,32 @@ it's ready to run 🎉
 or
 `python desktop.py`
 for run flaskBlog as a desktop app 💯
-## Installation guide on Redhat openshift cloud ⬇️
+## Installation guide on Azure cloud web app creation ⬇️
+clone repository
 
-Go to the openshift sandbox developer environment https://oauth-openshift.apps.sandbox-m4.g2pi.p1.openshiftapps.com/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.sandbox-m4.g2pi.p1.openshiftapps.com%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=13ca5c27
+Go to the Azure
 
-click on developer
-create a Add
-click on import github URL use the link ` https://github.com/Jerryblessed/Softwarebank.git ` 💾
-create project 📁
+Signup and Login 
+
+click on 'create a resource'
+
+click on 'create Web App'
+
+Select code radio button for 'publish'
+
+Fill in instance name
+
+Select runtime stack as Python3.11
+
+create database as MySQL  💾
+
+configure github and select repo which contains the code
+
+Review and create project 📁
+
 wait for it to build then run the app using the created projects link 💯
+## Installation guide to create speech-to-text AI ⬇️
+click on Azure AI services
+
+select 'speech-services' and follow thorugh the step similar to installation guide for web app creation
 
