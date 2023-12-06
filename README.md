@@ -96,8 +96,8 @@ configure github and select repo which contains the code
 Review and create project 📁
 
 wait for it to build then run the app using the created projects link 💯
-## Installation guide to create speech-to-text AI ⬇️
+## Installation guide to create computer vision ⬇️
 click on Azure AI services
 
-select 'speech-services' and follow thorugh the step similar to installation guide for web app creation
+select 'computer-vision' and follow thorugh the step similar to installation guide for web app creation
 
