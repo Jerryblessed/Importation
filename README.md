@@ -59,7 +59,7 @@ Simple blog app built with Flask.
 ## Installation guide on Windows local machine ⬇️
 
 download source code from Github 💾
-`git clone https://github.com/Jerryblessed/aischolarconnect.git`
+`git clone https://github.com/Jerryblessed/importation.git`
 
 go to directory 📁
 `cd softwarebank`
