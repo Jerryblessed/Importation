@@ -6,7 +6,7 @@ Simple blog app built with Flask.
 [Contact](mailto:jeremiah.ope@stu.cu.edu.ng)<br/>
 
 ### [Demo Video 📺](https://vimeo.com/891677797)
-# [Achitecural diagram 📜 ](https://github.com/Jerryblessed/Importation/tree/main/computer%20vision)
+# [Achitecural diagram 📜 ](https://github.com/Jerryblessed/Importation/blob/main/computer%20vision/Aischolarconnect%20achitectural%20diagram.png)
 
 
 
