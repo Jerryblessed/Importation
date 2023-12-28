@@ -1,10 +1,12 @@
 # [AI Scholar Connect 📜 ](https://flaskhealthy.azurewebsites.net/)
 
+
 Simple blog app built with Flask.
 <br/>
 [Contact](mailto:jeremiah.ope@stu.cu.edu.ng)<br/>
 
 ### [Demo Video 📺](https://vimeo.com/891677797)
+# [Achitecural diagram 📜 ](https://flaskhealthy.azurewebsites.net/)
 
 
 
