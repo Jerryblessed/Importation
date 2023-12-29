@@ -1,4 +1,4 @@
-# [AI Scholar Connect 📜 ](https://flaskhealthy.azurewebsites.net/)
+# [AI Scholar Connect 📜 ](https://jerryblessed.pythonanywhere.com/)
 
 
 Simple blog app built with Flask.
